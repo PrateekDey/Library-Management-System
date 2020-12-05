@@ -1,5 +1,5 @@
 # Library-Management-System
-Library Management System Using Java and Mysql
+Library Management System Using Java and Mysql using JDBC driver Connection
 
 # Technologies Used
 Java Swing APIs
